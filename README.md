@@ -1,2 +1,3 @@
-# welcome2dot
-This is testing java script
+# maven-project
+
+Simple Maven Project
