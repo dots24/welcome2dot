@@ -30,7 +30,8 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
       <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
    </head>
    <!-- body -->
    <body class="main-layout">
@@ -48,7 +49,7 @@
                   <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
                      <div class="full">
                         <div class="center-desk">
-                           <div class="logo"> <a href="index.html"><img src="images/logo.png" alt="#"></a> </div>
+                           <div class="logo"> <a href="index.html"><img src="images/dot2.png" alt="#"></a> </div>
                         </div>
                      </div>
                   </div>
@@ -87,8 +88,8 @@
                      <div class="row marginii">
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                            <div class="carousel-caption ">
-                              <h1>Welcome to <strong class="color">Our Shop</strong></h1>
-                              <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
+                              <h1>Welcome to <strong class="color">DoT</strong></h1>
+                              <p>Its a IT Treasure.....</p>
                               <a class="btn btn-lg btn-primary" href="#" role="button">Buy Now</a>
                               <a class="btn btn-lg btn-primary" href="about.html" role="button">About </a>
                            </div>
@@ -106,7 +107,7 @@
                      <div class="row marginii">
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                            <div class="carousel-caption ">
-                              <h1>Welcome to <strong class="color">Our Shop</strong></h1>
+                              <h1>Welcome to <strong class="color">DoT</strong></h1>
                               <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
                               <a class="btn btn-lg btn-primary" href="#" role="button">Buy Now</a>
                               <a class="btn btn-lg btn-primary" href="about.html" role="button">About</a>
@@ -125,7 +126,7 @@
                      <div class="row marginii">
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                            <div class="carousel-caption ">
-                              <h1>Welcome to <strong class="color">Our Shop</strong></h1>
+                              <h1>Welcome to <strong class="color">DoT</strong></h1>
                               <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
                               <a class="btn btn-lg btn-primary" href="#" role="button">Buy Now</a>
                               <a class="btn btn-lg btn-primary" href="about.html" role="button">About</a>
@@ -153,7 +154,7 @@
             <div class="row">
                <div class="col-md-12 ">
                   <div class="titlepage">
-                     <h2><strong class="black"> Our</strong>  Products</h2>
+                     <h2><strong class="black"> Our</strong>  Class</h2>
                      <span>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected randomised words which don't look even slightly believable</span>
                   </div>
                </div>
@@ -252,8 +253,7 @@
                         </div>
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                            <div class="img-box">
-                              <figure><img src="images/child-image.png" style="max-width: 100%; border: 15px solid #fff;"/></figure>
-                           </div>
+                              &nbsp;<p>&nbsp;</div>
                         </div>
                      </div>
                   </div>
@@ -272,39 +272,27 @@
                         </div>
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                            <div class="img-box ">
-                              <figure><img src="images/child-image.png" style="max-width: 100%; border: 15px solid #fff;"/></figure>
+                              <figure>
+								<img src="images/devops-tools.png" style="max-width: 100%; border: 15px solid #fff;" width="710"/></figure>
+                           	<p>Best sports item shop our</p>
+								<p  class="lorem_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected randomised words which don't look even slightly believableThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected randomised words which don't look even slightly believable</p>
+								<div class="btn_main">
+									<a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
+								</div>
                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="carousel-item">
-                  <div class="container">
-                     <div class="row marginii">
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                           <div class="carousel-sporrt_text ">
-                              <h1 class="sporrt_text">Best sports item shop our</h1>
-                              <p  class="lorem_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected randomised words which don't look even slightly believableThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected randomised words which don't look even slightly believable</p>
-                              <div class="btn_main">
-                                 <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                           <div class="img-box">
-                              <figure><img src="images/child-image.png" style="max-width: 100%; border: 15px solid #fff;"/></figure>
-                           </div>
-                        </div>
+						<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+							<div class="img-box">
+								<figure>
+								<img src="images/devops-tools.png" style="max-width: 100%; border: 15px solid #fff;" width="710" height="397"/></figure>
+							</div></div>
                      </div>
                   </div>
                </div>
             </div>
          </div>
       </section>
-      </div>
-      <!-- end about -->
-      <!--Our  Clients -->
-      <div id="plant" class="section_Clients layout_padding padding_bottom_0">
+<div id="plant" class="section_Clients layout_padding padding_bottom_0">
          <div class="container">
             <div class="row">
                <div class="col-md-12 ">
