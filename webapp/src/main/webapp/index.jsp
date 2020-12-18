@@ -232,7 +232,7 @@
 
 
       <section >
-         <div id="main_slider" class="section carousel slide banner-main" data-ride="carousel">
+         <div id="main_slider" class="section carousel slide banner-main" data-ride="carousel" style="width: 1327px; height: 2027px">
             <ol class="carousel-indicators">
                <li data-target="#main_slider" data-slide-to="0" class="active"></li>
                <li data-target="#main_slider" data-slide-to="1"></li>
@@ -284,7 +284,7 @@
 						<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
 							<div class="img-box">
 								<figure>
-								<img src="images/devops-tools.png" style="max-width: 100%; border: 15px solid #fff;" width="710" height="397"/></figure>
+								<img src="images/devops-tools.png" style="max-width: 100%; border: 15px solid #fff;" width="952" height="537"/></figure>
 							</div></div>
                      </div>
                   </div>
@@ -297,8 +297,7 @@
             <div class="row">
                <div class="col-md-12 ">
                   <div class="titlepage">
-                     <h2> Testmonial</h2>
-                     <span style="text-align: center;">available, but the majority have suffered alteration in some form, by injected randomised words which don't look even slightly believable</span>
+                     <h2> Testmonial</h2><span style="text-align: center;">available, but the majority have suffered alteration in some form, by injected randomised words which don't look even slightly believable</span>
                   </div>
                </div>
             </div>
