@@ -32,21 +32,7 @@
   </distributionManagement>
   -->
   
-  <distributionManagement>
-    <repository>
-      <id>nexus</id>
-      <name>Releases</name>
-      <url>http://localhost:8081/repository/maven-releases</url>
-    </repository>
-    
-	<snapshotRepository>
-      <id>nexus</id>
-      <name>Snapshots</name>
-      <url>http://34.66.90.234:8081/repository/maven-snapshots/</url>
-    </snapshotRepository>
-	
-	
-  </distributionManagement>
+  
 
 
 
@@ -239,5 +225,30 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
+  
+  
+  <distributionManagement>
+    <repository>
+      <id>nexus</id>
+      <name>Releases</name>
+      <url>http://localhost:8081/repository/maven-releases</url>
+    </repository>
+    
+	<snapshotRepository>
+      <id>nexus</id>
+      <name>Snapshots</name>
+      <url>http://34.66.90.234:8081/repository/maven-snapshots/</url>
+    </snapshotRepository>
+   </distributionManagement>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 </project>
